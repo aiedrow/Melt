@@ -321,7 +321,7 @@ Give a ⭐️ if this project helped you!
 
 ## 📞 Connect
 
-- Website: [meltcss.dev]([https://expo.aiedrow.co.in/Melt](https://expo.aiedrow.co.in/Melt)
+- Website: [https://expo.aiedrow.co.in/Melt](https://expo.aiedrow.co.in/Melt)
 - Documentation: [Full Docs]([https://expo.aiedrow.co.in/Melt/documentation.php)
 - Examples: [Live Examples](https://expo.aiedrow.co.in/Melt/examples.php)
 
